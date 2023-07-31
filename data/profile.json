@@ -1,14 +1,14 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Marcus Vogado",
+  "photo": "https://avatars.githubusercontent.com/u/107502578?v=4",
+  "job": "Junior Developer",
+  "location": "Brasília - DF",
+  "phone": "(61) 9 9286-6980",
+  "email": "marcus_620@hotmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
+        "name": "C#",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
